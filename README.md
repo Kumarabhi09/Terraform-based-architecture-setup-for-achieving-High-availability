@@ -12,4 +12,4 @@ Use global load balancers or GSLBs for routing.
 Graceful degradation: Serve limited features on partial failures
 Health checks: Liveness, readiness, startup probes in K8s
 
-
+kumar-abhishek.cloud
